@@ -1,0 +1,11 @@
+RestaurantName,CuisineType,Subregion,Segment,TotalRevenue,TotalOrders,TotalNetProfit
+Top Burgers Grill,Burgers,South Auckland,Full-service,100888.29,2337,-544.6599999999999
+Top Burgers Eatery,Burgers,West Auckland,Cafe,95968.5,2055,18295.13
+King Pizza Eatery,Pizza,West Auckland,Cafe,95963.98,2074,27368.36
+Classic Burgers Bistro,Burgers,South Auckland,Full-service,95796.57,2217,-837.8000000000004
+King Burgers House,Burgers,South Auckland,Full-service,95131.84,2194,-841.2000000000003
+Lucky Burgers House,Burgers,West Auckland,Cafe,94193.37,2103,15712.54
+Urban Pizza Tavern,Pizza,West Auckland,Cafe,93352.17,2103,20827.71
+Top Chicken Dishes Eatery,Chicken Dishes,West Auckland,QSR,93266.64,1998,14391.75
+Top Burgers Corner,Burgers,South Auckland,Full-service,91187.46,2051,-2854.8
+Classic Burgers Tavern,Burgers,West Auckland,Full-service,90605.44,2113,746.1800000000001

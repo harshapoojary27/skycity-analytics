@@ -1,6 +1,6 @@
 # 🏙️ SkyCity Auckland — Order Channel Performance & Market Share Analytics
 
-**MCA Internship Project** | Python · Streamlit · Plotly · Statsmodels
+Python · Streamlit · Plotly · Statsmodels 
 
 ---
 
